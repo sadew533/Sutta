@@ -1,3 +1,4 @@
+# ටග්ගාල Fork කරල deploy කරගම්න
 # Pair
 https://pair-web.asitha.us.kg
 
